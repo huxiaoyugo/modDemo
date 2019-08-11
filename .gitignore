@@ -12,3 +12,5 @@
 *.out
 
 modDemo.iml
+
+.idea
