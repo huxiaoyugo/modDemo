@@ -1,1 +1,1 @@
-module github.com/hxy921126/modDemo
+module github.com/huxiaoyugo/modDemo
